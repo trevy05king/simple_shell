@@ -1,3 +1,4 @@
+Simple shell Contributor (Queendaline Nnaji)[https://github.com/Queendaline24]
 General
 Who designed and implemented the original Unix operating system
 Who wrote the first version of the UNIX shell
