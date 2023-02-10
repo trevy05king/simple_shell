@@ -15,8 +15,6 @@ How to execute another program with the execve system call
 How to suspend the execution of a process until one of its children terminates
 What is EOF / “end-of-file”?
 
-1jst uodate our README.md
-
 1. Simple shell 0.1
 mandatory
 Write a UNIX command line interpreter.
